@@ -1,1 +1,1 @@
-📄 [عرض التقرير](./Data-Analysis-Certificate.pdf)
+📄 [عرض شهادة تحليل البيانات](./Data Analysis Certificate.pdf)
